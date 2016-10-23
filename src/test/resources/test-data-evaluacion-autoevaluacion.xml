@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	
+	<TIPO_EVALUACION id="1" nombre="Autoevaluacion docente" />
+	<PROGRAMA_ACADEMICO id="1" nombre="Ingenieria de software"  />
+	<PERIODO id="1" anio="2016" periodo="2" nombre="2016-2" />
+	<EVALUACION id="1" tipo_evaluacion_id="1" periodo_id="1"  programa_id="1" nombre="Evaluacion 0001"  />
+	<EVALUACION id="2" tipo_evaluacion_id="1" periodo_id="1"  programa_id="1" nombre="Evaluacion 0002" />
+    
+    
+</dataset>
