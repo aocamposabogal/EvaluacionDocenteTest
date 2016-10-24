@@ -9,7 +9,7 @@
 	<PROGRAMA_ACADEMICO id="1" nombre="Software"/>
     <EVALUACION id="1" programa_id="1" tipo_evaluacion_id="1" periodo_id="1" nombre="Coevaluacion Docente" />
     <EVALUACION id="2" programa_id="1" tipo_evaluacion_id="1" periodo_id="1" nombre="Otra Coevaluacion Docente" />
-    <PRESENTACION id="1" evaluacion_id="1" evaluador="JEfry Londoño" docente="Alejandro Ocampo" comentario="cualquier cosas hacemos" materia="Desarrollo en Equipo" estado="1"/>
+    <PRESENTACION id="1" evaluacion_id="1" evaluador="Jefry Londoño" docente="Alejandro Ocampo" comentario="cualquier cosas hacemos" materia="Desarrollo en Equipo" estado="1"/>
     <RESPUESTA id="1" nota="0" presentacion_id="1" pregunta_id="1" />
     <RESPUESTA id="2" nota="0" presentacion_id="1" pregunta_id="2" />
     <RESPUESTA id="3" nota="0" presentacion_id="1" pregunta_id="3" />
