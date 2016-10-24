@@ -1,4 +1,4 @@
-package co.edu.eam.test.coevaluaciondocente;
+package co.edu.eam.test.prueba;
 
 import java.util.List;
 
